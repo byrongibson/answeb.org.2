@@ -1,0 +1,16 @@
+<!-- This file is saved as .shtml because some web hosts require it for parsing SSI and other server side directives.  
+     If your host does not .shtml/.shtm/.stm, or your intend to use another server side scripting language for this, 
+     change the file extention appropriately. -->
+
+<!--#include file="include_header.shtml" -->
+<!-- body and div:container are last tags in header.html  -->
+
+<div id="main">
+    main    
+</div>
+    
+<!-- side nav -->
+<!--#include file="include_$$$$_nav.shtml" -->
+
+<!-- closing div:container and body are first tags in footer.html  -->
+<!--#include file="include_footer.shtml" -->
