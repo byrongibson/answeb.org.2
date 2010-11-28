@@ -1,0 +1,9 @@
+html5boilerplate and Less Framework 3 have some overlapping elements - resets, fonts, media queries.
+To make these easier to organize, they are separated into the following css files:
+
+reset.css
+fonts.css
+style.css - contains additional style elements common to all media formats
+media.css - contains styles specific to each media format
+
+Must be linked in webpages in above order.

@@ -1,0 +1,108 @@
+    <aside>
+        <ul id="side_nav_ul">
+            <li class="side_nav_li">
+                <div class="side_nav_category_heading">ANS Information</div>
+                <ul class="side_nav_category_ul">
+                    <li>
+                        <a href="about.shtml">About ANS</a>
+                    </li>
+                    <li>
+                        <a href="membership.shtml">ANS Membership</a>
+                    </li>
+                    <li>
+                        <a href="contact.shtml">Contact Us</a>
+                    </li>
+                    <li>
+                        <a href="">External Relations</a>
+                    </li>
+                    <li>
+                        <a href="">How to Advertise with ANS</a>
+                    </li>
+                    <li>
+                        <a href="">Our Partners</a>
+                    </li>
+                    <li>
+                        <a href="">Our Sponsors</a>
+                    </li>
+                    <li>
+                        <a href="">Project Grant Sources & Calls</a>
+                    </li>
+                    <li>
+                        <a href="">Public-Private Partnerships</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="side_nav_li">
+                <div class="side_nav_category_heading">ANS Events</div>
+                <ul class="side_nav_category_ul">
+                    <li>
+                        <a href="">Calendar</a>
+                    </li>
+                    <li>
+                        <a href="">Conferences</a>
+                    </li>
+                    <li>
+                        <a href="">Conferences Archives</a>
+                    </li>
+                    <li>
+                        <a href="">CPD Training Workshops</a>
+                    </li>
+                    <li>
+                        <a href="">Meetings</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="side_nav_li">
+                <div class="side_nav_category_heading">Nutrition in Africa</div>
+                <ul class="side_nav_category_ul">
+                    <li>
+                        <a href="">African Graduates in Nutrition (AGSNet)</a>
+                    </li>
+                    <li>
+                        <a href="">African Institutions & Programs</a>
+                    </li>
+                    <li>
+                        <a href="">Projects & Programmes</a>
+                    </li>
+                    <li>
+                        <a href="">iStudy in African Institutions</a>
+                    </li>
+                    <li>
+                        <a href="">Training & Research in Africa</a>
+                    </li>
+                </ul>
+            </li>
+            <li class="side_nav_li">
+                <div class="side_nav_category_heading">Nutrition Profession</div>
+                <ul class="side_nav_category_ul">
+                    <li>
+                        <a href="">Course Development & Accreditation</a>
+                    </li>
+                    <li>
+                        <a href="">International Nutrition Partnerships</a>
+                    </li>
+                    <li>
+                        <a href="">Jobs & Careers in Nutrtion & Public Health</a>
+                    </li>
+                    <li>
+                        <a href="">Journals</a>
+                    </li>
+                    <li>
+                        <a href="">Leadership Training in Nutrition</a>
+                    </li>
+                    <li>
+                        <a href="">Links</a>
+                    </li>
+                    <li>
+                        <a href="">Scholarships & Grant Opportunities</a>
+                    </li>
+                    <li>
+                        <a href="">Student Placement & Intercalated Programmes</a>
+                    </li>
+                    <li>
+                        <a href="">Training & Educational Resources</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </aside>
